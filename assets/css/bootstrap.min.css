@@ -464,11 +464,6 @@ output {
     display: inline-block
 }
 
-iframe {
-    border: 0;
-    border-radius: 5px;
-}
-
 summary {
     display: list-item;
     cursor: pointer
